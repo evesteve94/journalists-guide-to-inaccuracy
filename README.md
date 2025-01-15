@@ -47,6 +47,8 @@ Below is an example of a generate article:
 }
 ```
 
+````
+
 #### Backend:
 
 Node.js with TypeScript for robust server-side logic.
@@ -56,7 +58,10 @@ OpenAI and AI SDK for story and image generation.
 Cloudinary for image storage and retrieval.
 Multer for handling file uploads.
 
+
 Backend Package Dependencies:
+
+```json
 
 ```json
 {
@@ -68,7 +73,7 @@ Backend Package Dependencies:
   "multer": "^1.4.5-lts.1",
   "zod": "^3.23.8"
 }
-```
+````
 
 #### Installation and Setup
 
